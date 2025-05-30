@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Мебель</string>
+    <string name="registration_title">Регистрация</string>
+    <string name="full_name_hint">ФИО</string>
+    <string name="login_hint">Логин</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Телефон</string>
+    <string name="password_hint">Пароль</string>
+    <string name="repeat_password_hint">Повторите пароль</string>
+    <string name="birth_date_hint">Дата рождения</string>
+    <string name="furniture_type_hint">Тип мебели</string>
+    <string name="agree_text">Согласен на обработку данных</string>
+    <string name="register_button">Зарегистрироваться</string>
+
+    <string-array name="furniture_items">
+        <item>Диван</item>
+        <item>Кресло</item>
+        <item>Стол</item>
+        <item>Стул</item>
+        <item>Шкаф</item>
+    </string-array>
+</resources>

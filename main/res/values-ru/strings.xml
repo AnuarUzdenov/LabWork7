@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LabString">Laba7</string>
+    <string-array name="furniture">
+        <item>Молоко</item>
+        <item>Соль</item>
+        <item>Хлеб</item>
+        <item>Конфеты</item>
+        <item>Масло</item>
+    </string-array>
+</resources>
